@@ -73,7 +73,7 @@ a{
     grid-area: footer;
     height: 10em;
     overflow: auto;
-    position:absolute;
+    position:static;
     bottom:0px;
 }
 
