@@ -73,6 +73,8 @@ a{
     grid-area: footer;
     height: 10em;
     overflow: auto;
+    position:absolute;
+    bottom:0px;
 }
 
 .logo2{
