@@ -70,11 +70,8 @@ a{
     background-color: white;
     width: 100%;;
     grid-area: footer;
-    height: 10em;
-    
+    height: 10em; 
     overflow: auto;
-    position:fixed;
-    bottom:0px;
 }
 
 .logo2{
