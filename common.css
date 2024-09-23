@@ -75,8 +75,7 @@ a{
 }
 
 .logo2{
-    display: block; 
-    float:left;
+    
     padding: 5px 50px 5px 5px;
 }
 .logo2 img{
@@ -84,8 +83,7 @@ a{
    height: 150px;
 }
 .footer_sec{
-    display: block;
-    float:left;
+    
     width: 50%;
     max-width: 500px;
 }
